@@ -1,0 +1,45 @@
+.p-test{
+    background-image: url("../img/pexels-tyler-lastovich-699122.jpg");
+}
+
+.head-image{
+    background-image: url("../img/pexels-tyler-lastovich-699122.jpg");
+    background-size: 50% 50%;
+    height: 70vw;
+    background-repeat: no-repeat;
+}
+
+body{
+    background-color:black ;    
+} 
+
+.head-test-2{
+    background-image: url("../img/pexels-tyler-lastovich-699122.jpg");
+    background-size: 60% 50%;
+    height: 70vw;
+    background-repeat: no-repeat;
+}
+/* 
+.icon-down-head{
+    text-align: center;
+} */
+
+.test1 , .test2 , .test3 , .test4 {
+    background-color: black;
+    color: white;
+    width: 50px;
+    text-align: center;
+    margin-left: 700px;
+    border-radius: 10px;
+    margin-top: 150px;
+}
+
+.vid-head-title{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    object-fit: cover;
+    pointer-events: none; 
+    height: 90%;
+}
